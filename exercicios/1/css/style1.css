@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+html{
+    background-color: orange;
+}
+
+body{
+    margin: 0px;
+}
+
+div{
+    margin: auto;
+    margin-top: 10px;
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    border-width: 0px;
+    border-color:black;
+    border-style: solid;
+    padding: 0px;
+    box-shadow: 5px 3px 7px -4px rgba(0, 0, 0, 0.493);
+
+}
